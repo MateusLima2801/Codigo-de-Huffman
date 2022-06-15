@@ -1,0 +1,21 @@
+Huffman Code
+Mateus Lima Silveira 
+
+INPUT:
+baseMessage.txt
+
+OUTPUT:
+encodedMessage.txt
+decodifiedMessage.txt
+stdout:{ORIGINAL SIZE: XXXX  
+        COMPRESSED SIZE: YYYYY  
+        DECOMPRESSED SIZE: ZZZZZ
+        COMPRESSIBILITY: PP.PPPP% }
+
+
+
+O arquivo "main.cpp" realiza a codificação do texto em "baseMessage.txt" escrevendo a árvore de Huffman
+e a mensagem codificada em "encodedMessage.txt".
+
+Em seguida, decodifica a mensagem e a escreve em um novo arquivo "decodifiedMessage.txt"
+
